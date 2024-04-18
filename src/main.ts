@@ -1,6 +1,6 @@
 import { Serie } from "./serie.js";
 import { series } from "./data.js";
-console.log("Este es el taller 1 de TS de DSW en equipos");
+console.log("Taller 1 y 2 de TypeScript");
 
 let contenidoTabla: HTMLElement = document.getElementById("contenido")!;
 let imagenCard:HTMLElement = document.getElementById("image-info")!;
